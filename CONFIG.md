@@ -50,8 +50,8 @@ Complete setup and integration guide for the Codified Lemma Utility (CLU).
 mkdir clu_project
 cd clu_project
 
-# Download clu.py (replace URL with actual location)
-curl -O https://path/to/clu.py
+# Download clu.py
+curl -O https://github.com/suboksy/clu/blob/main/clu.py
 
 # Or manually copy clu.py to this directory
 ```
