@@ -577,7 +577,7 @@ This utility is provided as-is for educational and research purposes.
 
 ## Contributing
 
-Suggestions for improvements:
+Areas for Improvement:
 - Additional export formats (e.g., HTML, CSV)
 - Graphical visualization of dependencies
 - Web interface
